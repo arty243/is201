@@ -1,0 +1,36 @@
+.header {
+    padding: 60px;
+    text-align: center;
+    background-image: url(../img/tvgirlbackground.jpg);
+    color: white;
+    font-size: 30px;
+  }
+.leftmenu {
+    top: 114px;
+    left: 5px;
+    width: 120px;
+    bottom: 39px;
+    z-index: 99;
+    padding-top: 40px;
+    background-image: url(../img/tvgirlbackground.jpg);
+    height: 2850px;
+}
+.mainbody {
+    top: 280px;
+    left: 134px;
+    right: 114px;
+    bottom: 39px;
+    padding-right: 5px;
+    z-index: 1;
+    position:absolute
+}
+.footer {
+    bottom: 30px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+    font-size: 8px;
+    color: #999999;
+    text-align: center;
+    padding-top: 15px;
+}
